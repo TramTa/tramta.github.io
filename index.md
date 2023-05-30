@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Tram Ta. I'm broadly interested in statistics, machine learning, and their cross-disciplinary applications such as biology and finance. 
+Hi, I'm Tram Ta. I'm broadly interested in statistics, machine learning, and their cross-disciplinary applications such as biology, tech, and finance. 
 
 
 ## Education
